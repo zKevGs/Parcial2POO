@@ -1,0 +1,14 @@
+C:\Users\ktreboliniceriotti\Desktop\Recuperatorio2\Recuperatorio\ParcialDos\ProductosHorneados\obj\Debug\net6.0\Panaderia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ktreboliniceriotti\Desktop\Recuperatorio2\Recuperatorio\ParcialDos\ProductosHorneados\obj\Debug\net6.0\Panaderia.AssemblyInfoInputs.cache
+C:\Users\ktreboliniceriotti\Desktop\Recuperatorio2\Recuperatorio\ParcialDos\ProductosHorneados\obj\Debug\net6.0\Panaderia.AssemblyInfo.cs
+C:\Users\ktreboliniceriotti\Desktop\Recuperatorio2\Recuperatorio\ParcialDos\ProductosHorneados\obj\Debug\net6.0\Panaderia.csproj.CoreCompileInputs.cache
+C:\Users\ktreboliniceriotti\Desktop\Recuperatorio2\Recuperatorio\ParcialDos\ProductosHorneados\bin\Debug\net6.0\Panaderia.exe
+C:\Users\ktreboliniceriotti\Desktop\Recuperatorio2\Recuperatorio\ParcialDos\ProductosHorneados\bin\Debug\net6.0\Panaderia.deps.json
+C:\Users\ktreboliniceriotti\Desktop\Recuperatorio2\Recuperatorio\ParcialDos\ProductosHorneados\bin\Debug\net6.0\Panaderia.runtimeconfig.json
+C:\Users\ktreboliniceriotti\Desktop\Recuperatorio2\Recuperatorio\ParcialDos\ProductosHorneados\bin\Debug\net6.0\Panaderia.dll
+C:\Users\ktreboliniceriotti\Desktop\Recuperatorio2\Recuperatorio\ParcialDos\ProductosHorneados\bin\Debug\net6.0\Panaderia.pdb
+C:\Users\ktreboliniceriotti\Desktop\Recuperatorio2\Recuperatorio\ParcialDos\ProductosHorneados\obj\Debug\net6.0\Panaderia.dll
+C:\Users\ktreboliniceriotti\Desktop\Recuperatorio2\Recuperatorio\ParcialDos\ProductosHorneados\obj\Debug\net6.0\refint\Panaderia.dll
+C:\Users\ktreboliniceriotti\Desktop\Recuperatorio2\Recuperatorio\ParcialDos\ProductosHorneados\obj\Debug\net6.0\Panaderia.pdb
+C:\Users\ktreboliniceriotti\Desktop\Recuperatorio2\Recuperatorio\ParcialDos\ProductosHorneados\obj\Debug\net6.0\Panaderia.genruntimeconfig.cache
+C:\Users\ktreboliniceriotti\Desktop\Recuperatorio2\Recuperatorio\ParcialDos\ProductosHorneados\obj\Debug\net6.0\ref\Panaderia.dll

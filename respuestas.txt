@@ -1,0 +1,30 @@
+Preguntas y respuestas: 
+
+¿Es necesario usar un archivo para guardar los alquileres históricos?
+cita textual: Sin embargo, no es necesario almacenar un historial de alquileres (no, no lo pide).
+¿Deberías utilizar una Lista para gestionar los productos disponibles en la tienda?
+si, es lo mas optimo
+¿Se debería usar un Diccionario para gestionar las actividades?
+si, ya que podemos buscar a estas por su nombre y ver si estan disponibles o no.
+¿Es necesario guardar en un archivo las actividades del parque?
+si quieren llevar un registro historico de todas las actividades en el parque, si.
+¿Deberías usar un Diccionario para almacenar las reservas de los clientes?
+si, ya que podriamos usar su nombre o alguna clave para ver si reservo o no ese cliente, en el caso de que quieras saber mas al respecto 
+de las reservas(el vuelo y la clase) utilizaria una lista.
+¿Es necesario persistir las reservas canceladas?
+no, ya que si la persona que cancelo el turno se arrepiente de hacerlo deberia volver a sacar otro turno (y ya depende de si ocuparon su turno 
+o no si le dan ese mismo turno), a menos que quieran llevar un sistema que guarde la cancelacion de los turnos para agilizar lo explicado anteriormente.
+¿Es necesario guardar en un archivo el historial completo de compras de cada cliente?
+si, pero no es necesario que este este detallado, solo con el historial de que compro basta.
+¿Es útil el encapsulamiento en este caso?
+si, deberia de ser necesario para mantener la seguridad de los puntos de fidelidad de cada cliente.
+¿Se requiere un Enum para representar el tipo de vehículo?
+no es necesario, ya que es reducido el numero de vehiculos, pero si quiere ampliar estos si es necesario, ya que agiliza todo el sistema y lo hace mas simple.
+¿Es necesario almacenar en un archivo la información de los vehículos que ya salieron del
+estacionamiento?
+cita:  No es necesario llevar un registro histórico de los vehículos que salen.
+bonus: 
+publico: todo el mundo puede acceder a ellas
+protegido: solo las clases heredadas pueden acceder a ellas
+privado: nadie puede acceder a este tipo de clase
+
